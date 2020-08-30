@@ -9,7 +9,10 @@ This challenge is to aggregate the data found in the Citi Bike Trip History Logs
 2. Tableau (Visualization and Analysis)
 3. Github (Publishing of Results and Analysis)
 
-# Analysis
+# Link to Visualization
+[New York Citi Bikes](https://public.tableau.com/profile/jihye.choi1357#!/vizhome/CitiBike_15955663283760/CitiBikeAnalytics)
+
+### Analysis
 
 #### Station Popularity
 
